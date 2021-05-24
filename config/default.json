@@ -1,0 +1,10 @@
+{
+    "env": {
+    "MYSQL_DATABASE": "cadastro-paciente",
+    "MYSQL_USER": "root",
+    "MYSQL_PASSWORD": "@Rampinelli1234",
+    "MYSQL_HOST": "localhost",
+    "MYSQL_PORT": 3306
+    }
+     
+}
